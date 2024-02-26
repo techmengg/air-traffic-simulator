@@ -1,6 +1,6 @@
 # Air Traffic Control Simulator | U2 Assignment
 
-To Run on VSCode:
+To Run on VSCode or Netbeans:
 Clone both .java (Assignment2.java and Airplane.java) files.
 
 To Run on Projectstem.org:
