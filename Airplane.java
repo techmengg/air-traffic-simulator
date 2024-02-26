@@ -36,23 +36,16 @@ public class Airplane {
     }
 
     public double distTo(Airplane other) {
-        // Implement distance calculation between two airplanes
         return Math.sqrt(Math.pow(this.distance - other.distance, 2));
     }
 
     public void move(double distance, int bearing) {
-        // Implement airplane movement
-        // This method should update the airplane's distance and bearing
     }
 
     public void gainAlt() {
-        // Implement altitude increase
-        // This method should increase the airplane's altitude
     }
 
     public void loseAlt() {
-        // Implement altitude decrease
-        // This method should decrease the airplane's altitude
     }
 
     @Override

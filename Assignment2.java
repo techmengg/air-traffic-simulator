@@ -1,7 +1,8 @@
 /* Assignment 2 - Control Tower */
 /* Class name - must be "Assignment2" in order to run */
 import java.util.Scanner;
-//import assignment2.Airplane; // THIS IMPORT ONLY WORKS FOR PROJECTSTEM. 
+//import assignment2.Airplane; <------ THIS IMPORT ONLY WORKS FOR PROJECTSTEM.ORG 
+// Replaced this importation, created another .java file with necessary classes.
 
 public class Assignment2 {
     public static void main(String[] args) {
